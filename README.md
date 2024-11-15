@@ -38,7 +38,7 @@ Find me around the web 🌎:
 A custom date picker component built with modern web technologies.
 
 <a href="https://github.com/kavya123-ambure/date-picker-component">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=kavya123-ambure&repo=date-picker-component&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kavya123-ambure&repo=date-picker-component&theme=radical" />
 </a>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
