@@ -22,7 +22,7 @@ Find me around the web 🌎:
 ### 🧩 Libraries & Framework
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/[Bootstrap]-620af0?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-620af0?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 ###  Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
