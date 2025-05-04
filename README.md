@@ -71,6 +71,16 @@ Find me around the web 🌎:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<a href="https://github.com/kavya123-ambure/OCTANET_DECEMBER">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavya123-ambure&repo=OCTANET_DECEMBER&theme=radical&cache_seconds=1" />
+</a>
+
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 </div>
 
 
