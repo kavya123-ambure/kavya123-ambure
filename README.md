@@ -41,10 +41,11 @@ Find me around the web 🌎:
 
 ## 📌 Featured Projects
 
-<div style="display: flex;>
+<div style="background-color:pink">
   <a href="https://github.com/kavya123-ambure/date-picker-component">
    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=kavya123-ambure&repo=date-picker-component&theme=radical&cache_seconds=1" />
   </a>
+
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
