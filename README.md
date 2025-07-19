@@ -6,6 +6,7 @@
 - 📚 Constantly learning and exploring new tools to enhance my development skills
 - 💡 Always open to collaborating on projects and innovative ideas
 - 📧 Want to collaborate on a project? Feel free to contact me at kavyaambure@gmail.com
+- 📍 Based in Raichur, Karnataka | Open to Bangalore, Remote, Pune, Hyderabad
   
 Find me around the web 🌎:
 
